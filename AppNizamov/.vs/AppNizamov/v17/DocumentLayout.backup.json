@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AppNizamov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|c:\\users\\user\\source\\repos\\appnizamov\\appnizamov\\appnizamov.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|solutionrelative:appnizamov\\appnizamov.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|c:\\users\\user\\source\\repos\\appnizamov\\appnizamov\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|solutionrelative:appnizamov\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|c:\\users\\user\\source\\repos\\appnizamov\\appnizamov\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|solutionrelative:appnizamov\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|c:\\users\\user\\source\\repos\\appnizamov\\appnizamov\\appnizamov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|solutionrelative:appnizamov\\appnizamov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|c:\\users\\user\\source\\repos\\appnizamov\\appnizamov\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|solutionrelative:appnizamov\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|c:\\users\\user\\source\\repos\\appnizamov\\appnizamov\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98D39CFE-1DDF-47B0-BB41-E105A2FE856D}|AppNizamov\\AppNizamov.csproj|solutionrelative:appnizamov\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppNizamov",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\AppNizamov.csproj",
+              "RelativeDocumentMoniker": "AppNizamov\\AppNizamov.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\AppNizamov.csproj",
+              "RelativeToolTip": "AppNizamov\\AppNizamov.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T09:15:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGUCAAAAAAAAAAAgwHYCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-15T08:10:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\App.xaml",
+              "RelativeDocumentMoniker": "AppNizamov\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\App.xaml",
+              "RelativeToolTip": "AppNizamov\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T08:10:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppNizamov\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\AppShell.xaml",
+              "RelativeToolTip": "AppNizamov\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T08:10:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppNizamov\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\MainPage.xaml",
+              "RelativeToolTip": "AppNizamov\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T08:04:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppNizamov\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\MauiProgram.cs",
+              "RelativeToolTip": "AppNizamov\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:03:24.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppNizamov.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\AppNizamov.csproj",
+              "RelativeDocumentMoniker": "AppNizamov\\AppNizamov.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppNizamov\\AppNizamov\\AppNizamov.csproj",
+              "RelativeToolTip": "AppNizamov\\AppNizamov.csproj",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwDQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T07:41:47.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
